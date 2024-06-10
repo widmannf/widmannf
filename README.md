@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Felix, an astrophysicist currently looking for new challenges!
+
+🔭 I am working as as an astrophysiscst at [MPE](https://mpe.mpg.de) in Munich Germany. I have worked on data analyis of oveservational and instrumental data. 
+
+🌱 I am currently looking for a change in career and trying to develop new skills.
+
+💬 [Get in touch](https://www.linkedin.com/in/felix-widmann-ab045b141/)
 
 <!--
 **widmannf/widmannf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
