@@ -1,12 +1,12 @@
 ## Hi, I'm Felix, an astrophysicist currently looking for new challenges!
 
-🔭 I am working as an astrophysicist at [MPE](https://mpe.mpg.de) in Munich, Germany, where I have done my PhD followed by a PostDoc position. I have worked on data analysis of observational and instrumental data. I was part of many instrumentation projects, mostly on the optical interferometer [GRAVITY](https://www.eso.org/public/teles-instr/paranal-observatory/vlt/vlt-instr/gravity/) that is observing black holes from the VLTI observatory in Chile.
+🔭  I am working as an astrophysicist at [MPE](https://mpe.mpg.de) in Munich, Germany, where I have done my PhD followed by a PostDoc position. I have worked on data analysis of observational and instrumental data. I was part of many instrumentation projects, mostly on the optical interferometer [GRAVITY](https://www.eso.org/public/teles-instr/paranal-observatory/vlt/vlt-instr/gravity/) that is observing black holes from the VLTI observatory in Chile.
 
-🌱 I am looking for a career change and developing new skills.
+🌱  I am looking for a career change and developing new skills.
 
-💬 [Get in touch](https://www.linkedin.com/in/felix-widmann-ab045b141/)
+💬  [Get in touch](https://www.linkedin.com/in/felix-widmann-ab045b141/)
 
-Some of my coding projects here include:
+### Some of my coding projects here include:
 
 - [GravityPy](https://github.com/widmannf/GravityPy): Python package to analyze and fit data from the optical interferometer GRAVITY. All data from the Galactic Center Project at MPE was analyzed with this package.
 
