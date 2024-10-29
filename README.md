@@ -12,7 +12,7 @@
 
 - [VLTIpol](https://github.com/widmannf/VLTIpol): Calibration package to correct observations from the VLTI observatory and the GRAVITY instrument for instrumental polarization. The work leading into this code can be found in the accompanying [publication in A&A](https://arxiv.org/abs/2311.03472).
 
-- [GRAVITY-Phasemaps](https://github.com/widmannf/VLTIpol): Application of the correction for optical aberrations in GRAVITY, following our [publication in A&A](https://arxiv.org/abs/2101.12098).
+- [GRAVITY-Phasemaps](https://github.com/widmannf/GRAVITY-Phasemaps): Application of the correction for optical aberrations in GRAVITY, following our [publication in A&A](https://arxiv.org/abs/2101.12098).
 
 - [P-Rex](https://github.com/widmannf/prex): A project from back in the days of my Masters Thesis, where I tested if atmospheric measurements can be used in a novel way to improve interferometry, [published in MNRAS](https://arxiv.org/abs/1712.07716).
 
